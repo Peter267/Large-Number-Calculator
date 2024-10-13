@@ -23,5 +23,9 @@ A large number calculator that can perform calculations on numbers with digits u
 
 6. **Interactive Buttons**:
    - Special functions include clear (`C`), exponentiation (`^`), percentage (`%`), and calculation (`=`). The design distinguishes the special buttons visually with different colors.
+7. **Website screenshot**
 
+![Demo](https://github.com/user-attachments/assets/fa3ce381-c242-4fd7-8dfb-c3684d83f3d4)
+
+---
 In summary, this code creates a simple but visually modern calculator with support for large number calculations using `BigInt`, smooth animations, and basic mathematical operations.
